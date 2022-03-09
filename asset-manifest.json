@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21ac6596.css",
+    "main.js": "/static/js/main.eca3c71e.js",
+    "static/media/nasha.png": "/static/media/nasha.f1fd13848006f7a0b277.png",
+    "static/media/tennis.png": "/static/media/tennis.f26566dfb417f07b4019.png",
+    "static/media/pizza.png": "/static/media/pizza.02329dc1953bee4dcd4c.png",
+    "static/media/certificate.png": "/static/media/certificate.6357a17a5068fd5102ed.png",
+    "static/media/canva.png": "/static/media/canva.e8fc47c16469d4ebde95.png",
+    "static/media/hungry.png": "/static/media/hungry.bc13c624916edccaafb3.png",
+    "static/media/mypic.jpeg": "/static/media/mypic.c4cd672cf1cc53ea51d1.jpeg",
+    "static/media/sun.png": "/static/media/sun.c250aaea611068385d88.png",
+    "static/media/muma.png": "/static/media/muma.8acdb439bfea756d2a72.png",
+    "static/media/phone.png": "/static/media/phone.9b8359860a85320ca594.png",
+    "static/media/me1.png": "/static/media/me1.449ec848f60510f0a435.png",
+    "static/media/email1.png": "/static/media/email1.c0bba7b5e306aa023838.png",
+    "static/media/new.png": "/static/media/new.88fbc7a3854468e2c350.png",
+    "index.html": "/index.html",
+    "main.21ac6596.css.map": "/static/css/main.21ac6596.css.map",
+    "main.eca3c71e.js.map": "/static/js/main.eca3c71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ac6596.css",
+    "static/js/main.eca3c71e.js"
+  ]
+}
